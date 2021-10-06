@@ -9,7 +9,7 @@ the problem in case it has been updated.
 If interested in my comments and apparoach I invite you to read
 the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/10/06/count-triplets/
 
 One of the best ways to learn and refresh knowledge is to read and experiment.
 Keep in mind that practice makes perfect.
